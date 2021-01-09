@@ -1,0 +1,27 @@
+{
+    "name": "better youtube",
+    "description": "add new emojis for youtube",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "icons": {
+        "16": "./logo-512x512.png",
+        "32": "./logo-512x512.png",
+        "48": "./logo-512x512.png",
+        "128": "./logo-512x512.png"
+    },
+    "content_scripts": [{
+            "matches": [ 
+                        "https://www.youtube.com/live_chat*"
+                        ],
+            "js": ["script.js"]
+        }
+    ],
+    "web_accessible_resources" : [ 
+        "emojis/*.jpg", 
+        "emojis/*.png"
+        ],
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_title": "All emojis"
+    }
+}
