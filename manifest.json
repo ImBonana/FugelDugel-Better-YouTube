@@ -16,10 +16,6 @@
             "js": ["script.js"]
         }
     ],
-    "web_accessible_resources" : [ 
-        "emojis/*.jpg", 
-        "emojis/*.png"
-        ],
     "browser_action": {
         "default_popup": "popup.html",
         "default_title": "All emojis"
