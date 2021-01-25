@@ -9,6 +9,7 @@ You can go through the guide below || You can watch The video in hebrew <a href=
 * <a href="https://www.youtube.com/c/FugelDugel?sub_confirmation=1">YouTube</a>
 * <a href="https://discord.gg/t3kVbAHCET">Discord</a>
 #
+# Tutorial
 1. go to the main button 
 <img class="1" src="https://cdn.discordapp.com/attachments/802630210772008990/802824446020157440/unknown.png" alt="1">
 #
