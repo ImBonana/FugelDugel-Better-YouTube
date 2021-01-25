@@ -3,7 +3,7 @@ Add new emojis for Youtube
 #
 How i download?
 
-You can go through the guide below || You can watch The video in hebrew <a href="https://www.youtube.com/watch?v=5Ioi7eQLh_Y">Click Here</a>
+You can go through the [Tutorial](#tutorial) below || You can watch The video in hebrew <a href="https://www.youtube.com/watch?v=5Ioi7eQLh_Y">Click Here</a>
 #
 # social media
 * <a href="https://www.youtube.com/c/FugelDugel?sub_confirmation=1">YouTube</a>
