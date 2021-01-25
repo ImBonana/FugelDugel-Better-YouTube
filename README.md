@@ -3,7 +3,7 @@ Add new emojis for Youtube
 #
 How i download?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5Ioi7eQLh_Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+You can go through the guide below || You can watch The video in hebrew <b><a href="https://www.youtube.com/watch?v=5Ioi7eQLh_Y">Click Here</a></b>
 #
 1. go to the main button 
 <img class="1" src="https://cdn.discordapp.com/attachments/802630210772008990/802824446020157440/unknown.png" alt="1">
