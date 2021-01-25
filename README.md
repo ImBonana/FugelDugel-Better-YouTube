@@ -3,12 +3,13 @@ Add new emojis for Youtube
 #
 How i download?
 
-You can go through the guide below || You can watch The video in hebrew <a href="https://www.youtube.com/watch?v=5Ioi7eQLh_Y">Click Here</a>
+You can go through the [Tutorial](#tutorial) below || You can watch The video in hebrew <a href="https://www.youtube.com/watch?v=5Ioi7eQLh_Y">Click Here</a>
 #
 # social media
 * <a href="https://www.youtube.com/c/FugelDugel?sub_confirmation=1">YouTube</a>
 * <a href="https://discord.gg/t3kVbAHCET">Discord</a>
 #
+# Tutorial
 1. go to the main button 
 <img class="1" src="https://cdn.discordapp.com/attachments/802630210772008990/802824446020157440/unknown.png" alt="1">
 #
